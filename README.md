@@ -1,7 +1,8 @@
-### Chaldal_FullProject
+##### Chaldal_FullProject
 ## TestCase and TestReport
 * Checking Responsiveness and Browser Compatibility
-* Testing Sign In feature of https://chaldal.com/
+* Testing wbsite https://chaldal.com/
+* SignIn feature
 * TestCase 29
 * Passed 20
 * Failed 9
